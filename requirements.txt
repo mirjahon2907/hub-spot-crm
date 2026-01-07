@@ -1,0 +1,5 @@
+django
+simple-salesforce
+hubspot-api-client
+requests
+python-dotenv
